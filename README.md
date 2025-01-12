@@ -15,7 +15,7 @@ This project demonstrates the intersection of **finance** and **machine learning
 
 ## 📂 Repository Contents
 - `Solana_prediction.ipynb`: The complete Jupyter Notebook with data processing, model training, and evaluation.
-- `Deep_Learning_Solana_Presentation.pptx`: Presentation summarizing the project's objectives, methodology, and findings.
+- `Project_presentation.pdf`: Presentation summarizing the project's objectives, methodology, and findings.
 
 ---
 
