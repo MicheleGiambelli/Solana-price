@@ -1,8 +1,11 @@
-# Predicting Solana Prices Using Deep Learning
+# 📈 Predicting Solana Prices Using Deep Learning
 
-Predict **Solana (SOL)** closing prices using Deep Learning (LSTM).
+Predict **Solana** (SOL) closing prices using **Long-Short Term Memory** (LSTM).
 
-![Project Banner](https://example.com/your-banner-image.jpg)
+<p align="center">
+  <img src="solana.png" alt="Image 1" width="45%">
+</p>
+
 
 ## 🚀 Project Overview
 This repository contains the final project for a **Deep Learning course**, focusing on the prediction of Solana (SOL) cryptocurrency prices for **1, 5, and 7 days ahead** using an **LSTM-based Linear Regression model**. This project combines financial analysis with advanced predictive modeling to provide actionable insights into the volatile cryptocurrency market.
@@ -11,14 +14,14 @@ This project demonstrates the intersection of **finance** and **machine learning
 ---
 
 ## 📂 Repository Contents
-- `Solana_final.ipynb`: The complete Jupyter Notebook with data processing, model training, and evaluation.
+- `Solana_prediction.ipynb`: The complete Jupyter Notebook with data processing, model training, and evaluation.
 - `Deep_Learning_Solana_Presentation.pptx`: Presentation summarizing the project's objectives, methodology, and findings.
 
 ---
 
 ## 📈 Data and Methodology
 ### Data Source
-- Historical data for **SOL-USD** from [Yahoo Finance]([https://finance.yahoo.com/](https://finance.yahoo.com/quote/SOL-USD/history/)).
+- Historical data for **SOL-USD** from [Yahoo Finance](https://finance.yahoo.com/quote/SOL-USD/history/).
 
 ### Model Comparison
 1. **Benchmark Model**: Simple Moving Average (SMA).
@@ -38,7 +41,7 @@ This project demonstrates the intersection of **finance** and **machine learning
 ## 👨‍💻 How to Run
 1. Open the Jupyter Notebook and run the cells:  
    ```bash
-   jupyter notebook Solana_final.ipynb
+   jupyter notebook Solana_prediction.ipynb
    ```
 
 ---
