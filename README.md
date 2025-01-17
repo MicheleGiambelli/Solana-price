@@ -48,10 +48,14 @@ This project demonstrates the intersection of **finance** and **machine learning
 
 ## 🤝 Collaborators
 
-Michele Giambelli - [GitHub Profile](https://github.com/MicheleGiambelli).
+The project was developed as a team effort for the final assessment of the Deep Learning course. I would like to thank my teammates for their contribution and dedication. Below are the team members with links to their respective GitHub profiles:   
+- [Tommaso Biganzoli](https://github.com/biguz-commits)
+- [Matteo Delle Cave](https://github.com/matdcp)
+- [Michele Giambelli](https://github.com/MicheleGiambelli)
 
-Tommaso Biganzoli - [GitHub Profile](https://github.com/biguz-commits).
+Thank you all for the excellent teamwork! 🚀  
 
-Matteo Delle Cave - [GitHub Profile](https://github.com/matdcp).
+
+
 
 
